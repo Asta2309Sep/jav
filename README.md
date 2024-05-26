@@ -1,1 +1,1 @@
-# jav
+System.out.println(" i am amit")
